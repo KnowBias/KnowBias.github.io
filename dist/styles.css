@@ -13,4 +13,18 @@
 .app-header--title {
   color: #51C4CB; }
 
+.awari-logo img {
+  height: 50%;
+  width: 50%; }
+
+.login-content {
+  margin-top: 144px; }
+
+.login-button {
+  background-color: #00BCD4;
+  width: 50%;
+  color: #FFFFFF;
+  border-color: black;
+  height: 50px; }
+
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
