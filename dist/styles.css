@@ -10,8 +10,11 @@
   color: #51C4CB;
   white-space: nowrap; }
 
-.app-header--title {
-  color: #51C4CB; }
+.app-header--logo {
+  display: block;
+  height: 200px;
+  width: 148px;
+  margin-top: -26px; }
 
 .awari-logo img {
   height: 50%;
@@ -26,5 +29,17 @@
   color: #FFFFFF;
   border-color: black;
   height: 50px; }
+
+.login-tagline h2 {
+  color: #FFFFFF;
+  font-family: AvenirNext-UltraLight;
+  text-align: center;
+  border-bottom: 1px solid #FFFFFF;
+  line-height: 0.1em;
+  margin: -53px 233px 20px 113px; }
+
+.login-tagline h2 span {
+  background: #112643;
+  padding: 0 10px; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
