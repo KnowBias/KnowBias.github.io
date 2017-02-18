@@ -16,9 +16,13 @@
   width: 148px;
   margin-top: -26px; }
 
-.awari-logo img {
+.awari-logo__login img {
   height: 50%;
   width: 50%; }
+
+.awari-logo__header img {
+  height: 15%;
+  width: 15%; }
 
 .login-content {
   margin-top: 144px; }
@@ -42,7 +46,7 @@
   background: #112643;
   padding: 0 10px; }
 
-.login-tagline .login-form #userNameField {
+.form-group-sm .form-control {
   width: 69%; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
