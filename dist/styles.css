@@ -49,4 +49,26 @@
 .form-group-sm .form-control {
   width: 69%; }
 
+.rememberMe {
+  color: #EC8D4A; }
+
+.forgotPassword {
+  color: #FFFFFF; }
+
+.signUp {
+  color: #EC8D4A; }
+  .signUp a {
+    color: #FFFFFF; }
+
+.get-started-row {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) !important; }
+
+.breadcrumb-elements {
+  color: #FFFFFF;
+  vertical-align: middle;
+  transform: translate(0%, 50%) !important; }
+
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
