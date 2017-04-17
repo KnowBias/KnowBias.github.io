@@ -38,8 +38,6 @@
   color: #FFFFFF;
   font-family: AvenirNext-UltraLight;
   text-align: center;
-  border-bottom: 1px solid #FFFFFF;
-  line-height: 0.1em;
   margin: -53px 233px 20px 113px; }
 
 .login-tagline h2 span {
@@ -70,5 +68,113 @@
   color: #FFFFFF;
   vertical-align: middle;
   transform: translate(0%, 50%) !important; }
+
+.review-options {
+  background-color: #27394F;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 3px 3px black; }
+  .review-options ul {
+    list-style: none;
+    color: #D8D8D8;
+    margin-left: -39px;
+    margin-top: 10px; }
+  .review-options li {
+    padding: 10px;
+    border-bottom: 2px solid  #979797; }
+
+.review-options_title {
+  color: #FFFFFF;
+  padding-right: 15px; }
+
+.review-options_data {
+  color: #00BCD4; }
+
+.review-options_rounded-left {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px; }
+
+.review-options_rounded-right {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px; }
+
+.row-spacing_main {
+  margin-top: 20px; }
+
+.row-spacing_section {
+  margin-top: 10px; }
+
+.section_data_span {
+  float: right; }
+
+.middle-col {
+  display: block;
+  margin: auto;
+  margin-left: 106px; }
+
+.right-col {
+  margin-left: 74px; }
+
+.gross-sidebar-css {
+  margin-top: -555px; }
+
+.gross-sidebar-css2 {
+  margin-top: -334px; }
+
+.gross-button-css {
+  margin-left: 240px;
+  margin-top: 34px; }
+
+.next-icon {
+  margin-left: 400px; }
+
+.next-override {
+  margin-left: 545px; }
+
+.awari-analysis-button {
+  background-color: #EC8D4A;
+  color: #FFFFFF;
+  border-color: black; }
+
+.analysis-intro-stuff {
+  margin-top: 120px; }
+  .analysis-intro-stuff .page-message {
+    margin-left: 65px; }
+
+.decision-row {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) !important; }
+
+.yes-button, .no-button {
+  background-color: #EC8D4A;
+  color: #FFFFFF;
+  border-color: black; }
+
+.yes-button {
+  margin-left: -46px;
+  width: 133px; }
+
+.no-button {
+  margin-left: 100px;
+  width: 133px; }
+
+.upload-icon img {
+  margin-left: 200px; }
+
+.upload-progress img {
+  margin-top: 20px;
+  margin-left: -137px; }
+
+.upload-progress-content .page-message {
+  margin-left: 68px; }
+
+.upload-quote {
+  font-family: Palatino-Italic;
+  font-size: 24px;
+  color: #FFFFFF;
+  margin-top: 40px;
+  margin-left: -55px; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
