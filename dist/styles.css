@@ -16,6 +16,9 @@
   width: 148px;
   margin-top: -26px; }
 
+.app-menu {
+  background-color: #27394F; }
+
 .awari-logo__login img {
   height: 50%;
   width: 50%; }
@@ -68,6 +71,13 @@
   color: #FFFFFF;
   vertical-align: middle;
   transform: translate(0%, 50%) !important; }
+
+.divider {
+  width: 10%;
+  height: 20px;
+  border-bottom: 1px solid #BBBBBB;
+  text-align: left;
+  display: inline-block; }
 
 .review-options {
   background-color: #27394F;
@@ -176,5 +186,25 @@
   color: #FFFFFF;
   margin-top: 40px;
   margin-left: -55px; }
+
+/* Closed navigation */
+.nav-pills > li > a {
+  color: #EC8D4A; }
+
+/* Open navigation */
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+  background-color: #314763;
+  color: #EC8D4A;
+  /*main menu text color */ }
+
+.dropdown-menu {
+  background-color: #00BCD4; }
+
+.dropdown-menu > li > a {
+  color: #FFFFFF; }
+
+.nav > li > a:focus, .nav > li > a:hover {
+  text-decoration: underline;
+  background-color: #314763; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
